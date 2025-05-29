@@ -15,8 +15,12 @@ A simple and elegant To-Do List web application built with **HTML**, **CSS**, an
 4. Click ❌ to delete
 
 ## 🖼️ Folder Structure
+```
+
 todo/
 ├── index.html
 ├── style.css
 ├── script.js
 └── images/
+
+```
